@@ -1,0 +1,6 @@
+{
+  "name": "ABUAD Virtual Assistant",
+  "description": "Official Real-Time Conversational AI University Advisor and comprehensive Virtual Assistant for Afe Babalola University (ABUAD) sourced from https://www.abuad.edu.ng/ with live digital human avatar, vision capabilities, real-time live audio stage, RAG document knowledge base, and admissions navigator.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
